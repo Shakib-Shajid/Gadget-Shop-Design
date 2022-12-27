@@ -1,0 +1,39 @@
+.container{
+    margin-bottom: 50px;
+}
+.nav-image{
+    height:50px;
+}
+.row{
+    max-height: 500px;
+}
+.row img{
+    height: 500px;
+    padding-left: 20px;
+}
+.col-sm-3{
+    width: 5% !important;
+}
+.design{
+    padding-top: 125px;
+}
+
+.background-image img{
+    position: absolute;
+    left: 0px;
+    transform: translateY(-120px);
+    height: 100px;
+
+}
+.conatiner-1{
+    margin-top: 50px;
+}
+
+.conatiner-1 img{
+    height: 200px;
+    width: 200px;
+}
+
+.card-footer{
+    background-color: white !important;
+}
